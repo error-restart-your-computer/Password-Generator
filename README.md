@@ -16,5 +16,5 @@ No external libraries are required. This script uses Python's built-in `secrets`
 
 1. Clone or download the script:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/error-restart-your-computer/Password-Generator
    cd password-generator   
